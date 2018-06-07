@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Our Income Method
 
 You can use the [editor on GitHub](https://github.com/moss93/Hello-world-my-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
